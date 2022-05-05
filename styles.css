@@ -1,0 +1,13 @@
+body{
+  background-color: red;
+  text-align: center;
+}
+
+input{
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+p{
+  text-align: left;
+}
